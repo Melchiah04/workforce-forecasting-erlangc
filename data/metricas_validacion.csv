@@ -1,0 +1,4 @@
+metrica,valor
+MAPE,12.14
+RMSE,253.0
+dias_holdout,60.0
