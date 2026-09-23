@@ -48,7 +48,7 @@ dotación real, en vez de reglas simples de proporcionalidad.
 - Dotación proyectada (90 días, caso base): entre 23 y 39 FTE según el día,
   con un promedio de ~33 FTE.
 
-### Nota técnica honesta (diagnóstico real durante el desarrollo)
+### Nota técnica (diagnóstico real durante el desarrollo)
 
 La primera versión del modelo, con doble diferenciación (d=1 regular + D=1
 estacional), daba un MAPE de ~174%: el pronóstico "explotaba"
